@@ -15,7 +15,7 @@
 - hardware hacking
 - game development
 
-->**frameworks,tools,technologies**:
+->**frameworks,tools and technologies**:
 - personal computer
 - internet connection
 - human brain
