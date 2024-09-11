@@ -19,6 +19,7 @@
 ->**interest in**:
 - hardware hacking
 - game development
+- web hacking
 
 #
 
