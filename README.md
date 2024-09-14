@@ -3,7 +3,7 @@
 #
 
 ->**about me**:
-- software development student
+- cybersecurity student
 - my golden era: 2004
 - I like fighting games and action rpg
 - I also like almost all types of music, but D&B(EDM) and Rap have a special place in my mind
