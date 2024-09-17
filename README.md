@@ -17,8 +17,9 @@
 #
 
 ->**interest in**:
+- game development
 - hardware hacking
-- web hacking
+- defensive security
 
 #
 
