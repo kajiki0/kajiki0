@@ -18,7 +18,6 @@
 
 ->**interest in**:
 - game development
-- hardware hacking
 - web offensive security
 
 #
