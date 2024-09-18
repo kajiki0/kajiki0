@@ -19,7 +19,7 @@
 ->**interest in**:
 - game development
 - hardware hacking
-- defensive security
+- web offensive security
 
 #
 
