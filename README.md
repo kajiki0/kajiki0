@@ -1,4 +1,4 @@
-***"put your heart and soul into what you love"***
+***"the answer lies in the heart of battle"***
 
 #
 
