@@ -18,7 +18,8 @@
 
 ->**interest in**:
 - game development
-- low level security
+- web security
+- low level programming
 
 #
 
