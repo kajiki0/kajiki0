@@ -17,8 +17,8 @@
 #
 
 ->**interest in**:
-- game development
-- low level security
+- retro game development
+- offensive security
 
 #
 
