@@ -17,8 +17,8 @@
 #
 
 ->**interest in**:
-- retro game development
 - offensive security
+- game hacking
 
 #
 
