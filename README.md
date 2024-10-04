@@ -17,7 +17,7 @@
 #
 
 ->**interest in**:
-- web development(server-side)
+- web security
 - game hacking
 
 #
