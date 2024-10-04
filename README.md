@@ -3,7 +3,7 @@
 #
 
 ->**about me**:
-- cybersecurity student
+- software development student
 - my golden era: 2004
 - I like fighting games and action rpg
 - I also like almost all types of music, but D&B(EDM) and Rap have a special place in my mind
@@ -17,7 +17,7 @@
 #
 
 ->**interest in**:
-- offensive security
+- web development(server-side)
 - game hacking
 
 #
@@ -26,7 +26,7 @@
 - personal computer
 - internet connection
 - human brain
-
+  
 #
 
 ![ryu](ryu.gif)
