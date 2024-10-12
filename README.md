@@ -2,12 +2,12 @@
 
 -cybersec student 
 
--golden era:2004
+-golden era: 2004
 
 -pentesting
 
 -reverse engineering
 
-![ryu](ryu.gif)
+![ryu](ryu_hadouken.gif)
 
 
