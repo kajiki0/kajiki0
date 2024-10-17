@@ -6,8 +6,6 @@
 
 -pentesting
 
--reverse engineering
-
 ![ryu](ryu_hadouken.gif)
 
 
