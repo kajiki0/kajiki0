@@ -6,7 +6,6 @@
 
 -pentesting
 
--low level programming
 
 ![ryu](ryu_hadouken.gif)
 
