@@ -6,6 +6,8 @@
 
 -pentesting
 
+-retro gamedev(hobby)
+
 
 ![ryu](ryu_hadouken.gif)
 
