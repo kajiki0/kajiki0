@@ -6,7 +6,7 @@
 
 -pentesting
 
--retro gamedev(hobby)
+-game hacking
 
 
 ![ryu](ryu_hadouken.gif)
