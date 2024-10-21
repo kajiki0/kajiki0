@@ -6,6 +6,8 @@
 
 -pentesting
 
+-reverse engineering
+
 -C,Python,Js,Go
 
 
