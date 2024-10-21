@@ -8,8 +8,7 @@
 
 -reverse engineering
 
--C/C++/Python/Js/Asm
-
+-C/C++/Python/Js
 
 ![ryu](ryu_hadouken.gif)
 
