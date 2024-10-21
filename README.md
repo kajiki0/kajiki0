@@ -6,7 +6,7 @@
 
 -pentesting
 
--game hacking
+-C,Python,Js,Go
 
 
 ![ryu](ryu_hadouken.gif)
