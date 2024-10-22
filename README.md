@@ -8,6 +8,6 @@
 
 -C/Python/Js/Go
 
-![ryu](ryu_hadouken.gif)
+![dnb](sonic_adventure.gif)
 
 
