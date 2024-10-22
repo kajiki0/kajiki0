@@ -6,8 +6,6 @@
 
 -pentesting
 
--reverse engineering
-
 -C/Python/Js/Go
 
 ![ryu](ryu_hadouken.gif)
