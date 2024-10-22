@@ -8,7 +8,7 @@
 
 -reverse engineering
 
--C/C++/Python/Js
+-C/Python/Js/Go
 
 ![ryu](ryu_hadouken.gif)
 
