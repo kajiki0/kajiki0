@@ -5,12 +5,11 @@
 - golden era: 2004
 - pentesting
 - i like fighting games and rhythm games
-- game hacking/reversing
 
 ### programming languages(that i know some stuff):
 - Python
-- C/C++
-- Javascript
+- C
+- Go
 
 ### other languages:
 - pt-br(native)
