@@ -5,6 +5,7 @@
 - golden era: 2004
 - pentesting
 - i like fighting games and rhythm games
+- game hacking
 
 ### programming languages(that i know some stuff):
 - Python
