@@ -9,7 +9,7 @@
 
 ### programming languages(that i know some stuff):
 - Python
-- C
+- C/C++
 - Go
 
 ### other languages:
