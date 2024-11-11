@@ -6,10 +6,11 @@
 - security is my passion
 - game hacking/reversing
 
-### programming languages(that i know some stuff):
-- Python
-- C
-- Go
+### programming languages:
+- Python (i know some stuff)
+- C (i know some stuff)
+- Go (learning the fundamentals)
+- JavaScript (i know some stuff/learning)
 
 ### other languages:
 - pt-br(native)
