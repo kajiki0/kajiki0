@@ -10,7 +10,6 @@
 - Python (i know some stuff)
 - C (i know some stuff)
 - Go (learning the fundamentals)
-- JavaScript (i know some stuff/learning)
 
 ### other languages:
 - pt-br(native)
