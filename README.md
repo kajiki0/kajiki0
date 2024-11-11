@@ -3,7 +3,7 @@
 ### About me:
 - cybersec student 
 - golden era: 2004
-- pentesting
+- security is my passion
 - game hacking
 
 ### programming languages(that i know some stuff):
