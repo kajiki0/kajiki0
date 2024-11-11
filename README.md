@@ -4,7 +4,7 @@
 - cybersec student 
 - golden era: 2004
 - security is my passion
-- game hacking
+- game hacking/reversing
 
 ### programming languages(that i know some stuff):
 - Python
