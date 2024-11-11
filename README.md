@@ -5,6 +5,7 @@
 - golden era: 2004
 - security is my passion
 - game hacking/reversing
+- i want to understand how computers work
 
 ### programming languages:
 - Python (i know some stuff)
