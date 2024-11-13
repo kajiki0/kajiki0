@@ -4,7 +4,7 @@
 - cybersec student 
 - golden era: 2004
 - security is my passion (lol)
-- game hacking/reversing
+- reversing
 - pentesting
 - i want to understand how computers work
 
