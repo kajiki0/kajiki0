@@ -11,7 +11,6 @@
 ### programming languages:
 - Python (i know some stuff)
 - C (i know some stuff)
-- Go (learning the fundamentals)
 - JavaScript (know some stuff/learning)
 
 ### other languages:
