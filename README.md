@@ -12,7 +12,7 @@
 - Python (i know some stuff)
 - C (i know some stuff)
 - JavaScript (know some stuff/learning)
-- C++(reviewing some concepts)
+- C++ (reviewing some concepts)
 
 ### other languages:
 - pt-br(native)
