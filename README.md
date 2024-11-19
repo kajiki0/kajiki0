@@ -5,6 +5,8 @@
 - golden era: 2004
 - security is my passion (lol)
 - pentesting
+- web/network
+- game hacking
 
 ### programming languages:
 - Python (i know some stuff)
