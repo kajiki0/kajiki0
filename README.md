@@ -10,7 +10,7 @@
 - Python (i know some stuff)
 - C (i know some stuff)
 - JavaScript (know some stuff/learning)
-- C#(learning to make mods for games that i like)
+- C++(learning for game hacking)
 
 ### other languages:
 - pt-br(native)
