@@ -4,9 +4,7 @@
 - cybersec student 
 - golden era: 2004
 - security is my passion (lol)
-- reversing
 - pentesting
-- i want to understand how computers work
 
 ### programming languages:
 - Python (i know some stuff)
