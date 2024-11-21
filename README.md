@@ -4,12 +4,13 @@
 - cybersec student 
 - golden era: 2004
 - reverse engineering
-- low level security
+- pentesting
 
 ### programming languages:
 - Python (i know some stuff)
 - C (i know some stuff)
 - Asssembly (learning the fundamentals)
+- JavaScript(learning the fundamentals)
 
 ### other languages:
 - pt-br(native)
