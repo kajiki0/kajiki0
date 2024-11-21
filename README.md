@@ -3,14 +3,13 @@
 ### About me:
 - cybersec student 
 - golden era: 2004
-- pentesting
 - reverse engineering
+- low level security
 
 ### programming languages:
 - Python (i know some stuff)
 - C (i know some stuff)
-- JavaScript(learning)
-- Go(learning)
+- Asssembly (learning the fundamentals)
 
 ### other languages:
 - pt-br(native)
