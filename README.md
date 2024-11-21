@@ -3,16 +3,14 @@
 ### About me:
 - cybersec student 
 - golden era: 2004
-- security is my passion (lol)
+- pentesting
 - reverse engineering
-- game hacking
-- i want to understand how computers work
 
 ### programming languages:
 - Python (i know some stuff)
 - C (i know some stuff)
-- Assembly(learning the fundamentals)
-- C++(learning for game hacking)
+- JavaScript(learning)
+- Go(learning)
 
 ### other languages:
 - pt-br(native)
