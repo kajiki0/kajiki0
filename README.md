@@ -15,6 +15,6 @@
 - pt-br(native)
 - en-us(intermediate) -> im working to improve btw
 
-![dnb](sonic_adventure.gif)
+![hero](the_hero_appears.gif)
 
 
