@@ -8,7 +8,7 @@
 
 ### programming languages:
 - Python (i know some stuff)
-- C/C++ (i know some stuff)
+- C (i know some stuff)
 - Asssembly (learning the fundamentals)
 - JavaScript(learning the fundamentals)
 
