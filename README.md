@@ -9,7 +9,7 @@
 ### programming languages:
 - Python (i know some stuff)
 - C (i know some stuff)
-- Asssembly (learning the fundamentals)
+- Asssembly (learning the fundamentals) - MIPS
 - JavaScript(learning the fundamentals)
 
 ### other languages:
