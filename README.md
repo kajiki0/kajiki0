@@ -4,7 +4,7 @@
 - cybersec student 
 - golden era: 2004
 - reverse engineering
-- pentesting
+- pentesting(network)
 
 ### programming languages:
 - Python (i know some stuff)
