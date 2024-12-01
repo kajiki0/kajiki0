@@ -4,13 +4,12 @@
 - cybersec student 
 - golden era: 2004
 - reverse engineering
-- pentesting(network)
+- pentesting
 
 ### programming languages:
 - Python (i know some stuff)
 - C (i know some stuff)
 - Asssembly (learning the fundamentals)
-- Rust (learning the fundamentals)
 
 ### other languages:
 - pt-br(native)
