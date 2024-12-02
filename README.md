@@ -1,9 +1,9 @@
 ***"Habit is the second nature"***
 
 ### About me:
-- cybersec and software development student 
+- cybersec student 
 - golden era: 2004
-- reverse engineering
+- pentest
 - low level stuff
 
 ### programming languages:
@@ -11,7 +11,6 @@
 - C (i know some stuff)
 - Asssembly (learning the fundamentals)
 - JavaScript (i know some stuff)
-- PHP ( learning the fundamentals)
 
 ### other languages:
 - pt-br(native)
