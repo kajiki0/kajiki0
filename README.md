@@ -3,14 +3,13 @@
 ### About me:
 - cybersec student 
 - golden era: 2004
-- pentest
 - low level stuff
 
 ### programming languages:
 - Python (i know some stuff)
 - C (i know some stuff)
 - Asssembly (learning the fundamentals)
-- JavaScript (i know some stuff)
+- Rust( learning the fundamentals)
 
 ### other languages:
 - pt-br(native)
