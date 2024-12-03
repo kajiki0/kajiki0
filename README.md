@@ -3,13 +3,8 @@
 ### About me:
 - cybersec student 
 - golden era: 2004
-- low level stuff
-
-### programming languages:
-- Python (i know some stuff)
-- C (i know some stuff)
-- Asssembly (learning the fundamentals)
-
+- low level programming
+- offensive web security
 
 ### other languages:
 - pt-br(native)
