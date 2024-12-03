@@ -4,7 +4,6 @@
 - cybersec student 
 - golden era: 2004
 - low level stuff
-- pentest(network)
 
 ### programming languages:
 - Python (i know some stuff)
