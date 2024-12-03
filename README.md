@@ -5,8 +5,6 @@
 - golden era: 2004
 - low level programming
 - offensive web security
-
-### other languages:
 - pt-br(native)
 - en-us(intermediate) -> im working to improve btw
 
