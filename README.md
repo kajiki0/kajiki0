@@ -3,7 +3,6 @@
 ### About me:
 - cybersec student 
 - golden era: 2004
-- low level programming
 - network security
 - pt-br(native)
 - en-us(intermediate) -> im working to improve btw
