@@ -4,13 +4,12 @@
 - cybersec student 
 - golden era: 2004
 - pentesting
+- binary exploitation
 - pt-br(native)
 - en-us(intermediate) -> im working to improve btw
 - programming languages:
   - Python (i know something)
   - Nim (learning the basics)
-  - JavaScript (i know something)
-  - PHP (learning the basics)
-
+  - C ( i know something )
 ![yang-stage](sf3-3rd-strike-yang-stage-hongkong.gif)
 
