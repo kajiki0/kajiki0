@@ -4,13 +4,13 @@
 - cybersec student 
 - golden era: 2004
 - web pentest
-- binary exploitation
+- game modding
 - pt-br(native)
 - en-us(intermediate) -> im working to improve btw
 - programming languages:
   - Python (i know something)
-  - Nim (learning the basics)
-  - C ( i know something )
+  - Go (learning the basics)
+  - C# (learning the basics)
   - JavaScript( i know something)
   - PHP (learning the basics)
 
