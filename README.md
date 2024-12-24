@@ -13,5 +13,7 @@
   - C ( i know something )
   - JavaScript( i know something)
   - PHP (learning the basics)
+
+    
 ![yang-stage](sf3-3rd-strike-yang-stage-hongkong.gif)
 
