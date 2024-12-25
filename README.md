@@ -8,7 +8,7 @@
 - en-us(intermediate) -> im working to improve btw
 - programming languages:
   - Python (i know something)
-  - C (i know something)
+  - C/C++ (i know something)
   - Assembly x86-64 (learning the basics)
 
     
