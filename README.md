@@ -10,6 +10,7 @@
   - Python (i know something)
   - C/C++ (i know something)
   - Assembly x86-64 (learning the basics)
+  - Go (learning the basics)
 
     
 ![yang-stage](sf3-3rd-strike-yang-stage-hongkong.gif)
