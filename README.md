@@ -9,8 +9,6 @@
   - Python (i know something)
   - C/C++ (i know something)
   - Go (learning the basics)
-  - JavaScript (i know something)
-
     
 ![yang-stage](sf3-3rd-strike-yang-stage-hongkong.gif)
 
