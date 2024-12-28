@@ -12,3 +12,8 @@
     
 ![yang-stage](sf3-3rd-strike-yang-stage-hongkong.gif)
 
+# 
+
+  who climbs the ladder must begin at the bottom
+  
+#
