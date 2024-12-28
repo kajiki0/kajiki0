@@ -10,7 +10,7 @@
   - C/C++ (i know something)
   - Go (learning the basics)
     
-![yang-stage](sf3-3rd-strike-yang-stage-hongkong.gif)
+![sunset](sunset.gif)
 
 # 
 
