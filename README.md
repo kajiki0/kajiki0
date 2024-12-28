@@ -11,9 +11,3 @@
   - Go (learning the basics)
     
 ![sunset](sunset.gif)
-
-# 
-
-  who climbs the ladder must begin at the bottom
-  
-#
