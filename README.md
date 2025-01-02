@@ -7,7 +7,7 @@
 - en-us(intermediate) -> im working to improve btw
 - programming languages:
   - Python (i know something)
-  - C/C++ (i know something)
+  - C (i know something)
   - Go (learning the basics)
     
 ![sunset](sunset.gif)
