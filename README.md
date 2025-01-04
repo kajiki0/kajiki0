@@ -8,6 +8,8 @@
 - programming languages:
   - Python (i know something)
   - C (i know something)
-  - Assembly x86 (learning the basics) - [x86 Assembly Guide - MASM](https://www.cs.virginia.edu/~evans/cs216/guides/x86.html)
+  - Assembly x86 (learning the basics)
+    
+    note: I'm using this guide -> [x86 Assembly Guide - MASM](https://www.cs.virginia.edu/~evans/cs216/guides/x86.html)
     
 ![sunset](sunset.gif)
