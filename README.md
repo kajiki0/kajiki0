@@ -1,7 +1,7 @@
 **about me:**
   
   - studying web security
-  - i like game reverse engineering
+  - low level programming enjoyer
     
 - languages:
   
