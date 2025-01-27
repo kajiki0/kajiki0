@@ -1,6 +1,6 @@
 **about me:**
   
-  - cybersecurity student
+  - studying web security
   - low level programming enjoyer
     
 - languages:
