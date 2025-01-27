@@ -1,7 +1,8 @@
 **about me:**
   
-  - studying web security
+  - cybersecurity student (blue team)
   - low level programming enjoyer
+  - reverse engineering
     
 - languages:
   
