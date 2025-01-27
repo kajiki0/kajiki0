@@ -1,7 +1,7 @@
 **about me:**
   
   - studying web security
-  - low level programming enjoyer
+  - C programming enjoyer
     
 - languages:
   
