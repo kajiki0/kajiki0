@@ -1,6 +1,6 @@
 **about me:**
   
-  - studying web security
+  - studying infosec(pentest/red team)
   - C programming enjoyer
     
 - languages:
