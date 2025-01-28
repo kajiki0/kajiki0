@@ -12,7 +12,7 @@
 
 - programming languages:
   
-  - C / Python / JavaScript
+  - C / Python / JavaScript / C#
 
 
 #
