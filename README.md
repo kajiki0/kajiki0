@@ -2,6 +2,7 @@
   
   - studying infosec(pentest/red team)
   - C programming enjoyer
+  - game reverse engineering
     
 - languages:
   
