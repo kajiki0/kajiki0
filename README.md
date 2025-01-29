@@ -1,17 +1,20 @@
 **about me:**
   
-  - cybersecurity student(pentesting)
+  - cybersecurity student
   - reverse engineering
     
 - languages:
   
-  - pt-br(native)
-  
-  - en-us(intermediate / still learning)
+    - pt-br(native)
+    - en-us(intermediate / still learning)
 
-- programming languages:
+- tools/techs:
   
-  - C / Python / JavaScript
+  - C / Python / Assembly (x86-64)
+  - Linux(debian-based) / Windows
+  - Micro editor / VScode 
+  - human brain / internet access 
+
 
 
 #
