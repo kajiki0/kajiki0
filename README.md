@@ -1,8 +1,9 @@
 **about me:**
   
-  - studying infosec(pentest/red team)
+  - cybersecurity student
   - C programming enjoyer
-  - game reverse engineering
+  - reverse engineering
+  - low level stuff
     
 - languages:
   
@@ -12,7 +13,7 @@
 
 - programming languages:
   
-  - C / Python / JavaScript / C#
+  - C / Python / C# / Nim
 
 
 #
