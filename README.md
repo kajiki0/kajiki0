@@ -1,8 +1,7 @@
 **about me:**
   
-  - cybersecurity student
-  - reverse engineering
-  - low level stuff
+  - cybersecurity student(pentesting)
+  - reverse engineering(focusing on games)
     
 - languages:
   
@@ -12,7 +11,7 @@
 
 - programming languages:
   
-  - C / Python / C#
+  - C / Python / JavaScript
 
 
 #
