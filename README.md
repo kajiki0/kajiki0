@@ -12,7 +12,7 @@
 
 - programming languages:
   
-  - C / Python / C# / Rust
+  - C / Python / C#
 
 
 #
