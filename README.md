@@ -1,7 +1,7 @@
 **about me:**
   
   - cybersecurity student(pentesting)
-  - reverse engineering(focusing on games)
+  - reverse engineering
     
 - languages:
   
