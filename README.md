@@ -1,7 +1,6 @@
 **about me:**
   
   - cybersecurity student
-  - C programming enjoyer
   - reverse engineering
   - low level stuff
     
