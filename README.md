@@ -10,7 +10,7 @@
 
 - tools/techs:
   
-  - C / Python / Assembly (x86-64) / PHP / JS
+  - C++ / Python / Assembly (x86-64) / PHP / JS
   - Linux(debian-based) / Windows / Powershell
   - Micro editor / VScode 
   - human brain / internet access 
