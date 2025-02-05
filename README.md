@@ -10,7 +10,7 @@
 
 - tools/techs:
   
-  - C++ / Python / PHP / JavaScript
+  - C / C++ / Python / PHP / JavaScript
   - Linux(debian-based) / Windows / Powershell
   - Micro editor / VScode 
   - human brain / internet access 
