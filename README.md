@@ -1,7 +1,8 @@
 **about me:**
   
   - cybersecurity student
-  - reverse engineering
+  - pentest(web/network)
+  - cyber threat intel
     
 - languages:
   
