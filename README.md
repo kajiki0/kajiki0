@@ -1,8 +1,9 @@
 **about me:**
   
   - cybersecurity student
-  - pentest(web/network)
+  - pentest
   - cyber threat intel
+  - reverse engineering
     
 - languages:
   
@@ -11,7 +12,7 @@
 
 - tools/techs:
   
-  - C / C++ / Python / PHP / JavaScript
+  - C / C++ / Python / Assembly / JavaScript
   - Linux(debian-based) / Windows / Powershell
   - Micro editor / VScode 
   - human brain / internet access 
