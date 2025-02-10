@@ -2,7 +2,6 @@
   
   - cybersecurity student
   - pentest
-  - cyber threat intel
   - reverse engineering
     
 - languages:
