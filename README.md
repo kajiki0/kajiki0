@@ -2,7 +2,7 @@
   
   - cybersecurity student
   - pentesting
-  - gamedev enthusiast
+  - game reversing
     
 - languages:
   
@@ -11,7 +11,7 @@
 
 - tools/techs:
   
-  - C / Python / Assembly / JavaScript
+  - C / C++ / Python / Assembly / JavaScript / PHP
   - Linux(debian-based) / Windows / Powershell
   - Micro editor / VScode 
   - human brain / internet access 
