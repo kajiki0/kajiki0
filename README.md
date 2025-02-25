@@ -2,7 +2,6 @@
   
   - cybersecurity student
   - pentesting
-  - game reversing
   - web dev
     
 - languages:
