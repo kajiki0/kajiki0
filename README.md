@@ -1,8 +1,8 @@
 **about me:**
   
-  - cybersecurity student
-  - pentesting
-  - web dev
+  - infosec student
+  - reverse engineering
+  - low level stuff
     
 - languages:
   
@@ -11,7 +11,7 @@
 
 - tools/techs:
   
-  - C++ / Python / Assembly / JavaScript
+  - C++ / Python / Assembly / C / C#
   - Linux(debian-based) / Windows / Powershell
   - Micro editor / VScode 
   - human brain / internet access 
