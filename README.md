@@ -1,8 +1,8 @@
 **about me:**
   
   - infosec student
-  - reverse engineering
-  - low level stuff
+  - game reverse engineering
+  - pentest
     
 - languages:
   
@@ -11,7 +11,7 @@
 
 - tools/techs:
   
-  - C++ / Python / Assembly / C / C#
+  - C++ / Python / Assembly / JavaScript
   - Linux(debian-based) / Windows / Powershell
   - Micro editor / VScode 
   - human brain / internet access 
