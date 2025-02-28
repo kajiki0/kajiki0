@@ -2,7 +2,7 @@
   
   - infosec student
   - game reverse engineering
-  - pentest
+  - low level stuff
     
 - languages:
   
@@ -11,11 +11,10 @@
 
 - tools/techs:
   
-  - C++ / Python / Assembly / JavaScript
+  - C++ / Python / Assembly / C 
   - Linux(debian-based) / Windows / Powershell
   - Micro editor / VScode 
   - human brain / internet access 
-
 
 
 #
