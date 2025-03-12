@@ -2,7 +2,7 @@
   
   - infosec student
   - reverse engineering
-  - i like low level programming
+  - pentesting
     
 - languages:
   
