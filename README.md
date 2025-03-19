@@ -3,7 +3,6 @@
   - infosec student
   - web development
   - pentesting
-  - game hacking
     
 - languages:
   
