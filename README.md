@@ -1,7 +1,6 @@
 **about me:**
   
   - infosec student
-  - web development
   - pentesting
     
 - languages:
@@ -15,7 +14,6 @@
   - Linux(debian-based) / Windows / Powershell
   - Micro editor / VScode 
   - human brain / internet access 
-
 
 #
 
