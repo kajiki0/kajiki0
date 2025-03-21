@@ -2,6 +2,7 @@
   
   - infosec student
   - pentesting
+  - software developer
     
 - languages:
   
