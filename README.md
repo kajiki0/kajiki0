@@ -13,7 +13,7 @@
   
   - C++ / Python / JavaScript / Assembly / PHP
   - Linux(debian-based) / Windows / Powershell
-  - Micro editor / VScode 
+  - Micro editor / VScode / Visual Studio
   - human brain / internet access 
 
 #
