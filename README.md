@@ -1,7 +1,7 @@
 **about me:**
 
   - infosec student
-  - software developer
+  - pentest
   - reverse engineering
     
 - languages:
