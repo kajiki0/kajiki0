@@ -1,8 +1,8 @@
 **about me:**
 
   - infosec student
-  - software development
-  - reverse engineering
+  - pentest
+  - game modding
     
 - languages:
   
