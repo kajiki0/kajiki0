@@ -17,7 +17,7 @@
   - human brain / internet access 
 
 #
-![sunset](sunset.gif)
+![sf3-yang-stage](sf3-3rd-strike-yang-stage-hongkong.gif)
 #
 
 
