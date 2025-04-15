@@ -17,13 +17,7 @@
   - human brain / internet access 
 
 #
-
-***"Habit is the second nature"***
-
 ![sunset](sunset.gif)
-
-
-
 #
 
 
