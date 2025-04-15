@@ -1,7 +1,7 @@
 **about me:**
 
   - infosec student
-  - low level stuff
+  - software developer
   - reverse engineering
     
 - languages:
