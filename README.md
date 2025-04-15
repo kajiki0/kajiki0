@@ -1,7 +1,7 @@
 **about me:**
 
   - infosec student
-  - pentest
+  - software development
   - reverse engineering
     
 - languages:
@@ -11,7 +11,7 @@
 
 - tools/techs:
   
-  - C++ / Assembly / Python
+  - C++ / Assembly / Python / C#
   - Linux(debian-based) / Windows / Powershell
   - Micro editor / VScode / Visual Studio
   - human brain / internet access 
