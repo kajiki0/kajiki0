@@ -1,8 +1,8 @@
 **about me:**
 
   - infosec student
-  - pentest
-  - game modding
+  - pentest(network&wireless)
+  - reverse engineering
     
 - languages:
   
@@ -11,7 +11,7 @@
 
 - tools/techs:
   
-  - C++ / Assembly / Python / JavaScript 
+  - C++ / C / Assembly / Python 
   - Linux(debian-based) / Windows / Powershell
   - Micro editor / VScode / Visual Studio
   - human brain / internet access 
