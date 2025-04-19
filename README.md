@@ -1,7 +1,7 @@
 **about me:**
 
   - infosec student
-  - pentest(network&wireless)
+  - pentest(web)
   - reverse engineering
     
 - languages:
