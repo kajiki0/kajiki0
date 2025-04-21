@@ -2,7 +2,7 @@
 
   - infosec student
   - pentest(web)
-  - game modding
+  - game reversing
     
 - languages:
   
