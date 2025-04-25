@@ -1,8 +1,7 @@
 **about me:**
 
   - infosec student
-  - pentest(web)
-  - threat intel
+  - pentest
     
 - languages:
   
