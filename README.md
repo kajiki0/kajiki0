@@ -2,7 +2,7 @@
 
   - infosec student
   - pentest(web)
-  - game reversing
+  - threat intel
     
 - languages:
   
