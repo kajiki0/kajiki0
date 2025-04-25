@@ -2,6 +2,7 @@
 
   - infosec student
   - pentest
+  - low level stuff
     
 - languages:
   
