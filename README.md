@@ -2,7 +2,6 @@
 
   - infosec student
   - pentest
-  - low level stuff
     
 - languages:
   
@@ -11,7 +10,7 @@
 
 - tools/techs:
   
-  - C++ / JavaScript / Assembly / Python 
+  - C++ / JavaScript / Python 
   - Linux(debian-based) / Windows / Powershell
   - Micro editor / VScode / Visual Studio
   - human brain / internet access 
