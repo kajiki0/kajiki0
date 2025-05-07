@@ -2,6 +2,7 @@
 
   - infosec student
   - pentest
+  - binary exploitation
     
 - languages:
   
@@ -10,7 +11,7 @@
 
 - tools/techs:
   
-  - C++ / C / Python / JavaScript
+  - Assembly / C / Python / JavaScript
   - Linux(debian-based) / Windows / Powershell
   - Micro editor / VScode / Visual Studio
   - human brain / internet access 
