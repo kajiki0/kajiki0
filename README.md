@@ -2,7 +2,6 @@
 
   - infosec student
   - pentest
-  - reverse engineering
     
 - languages:
   
