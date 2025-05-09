@@ -1,7 +1,7 @@
 **about me:**
 
   - infosec student
-  - pentest
+  - threat intel
   - binary exploitation
     
 - languages:
