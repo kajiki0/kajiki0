@@ -1,7 +1,7 @@
 **about me:**
 
-  - pentester
-  - reverse engineering
+  - infosec student
+  - focusing on pentest(web) and reverse engineering
     
 - languages:
   
