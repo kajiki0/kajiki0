@@ -1,6 +1,6 @@
 **about me:**
 
-  - software developer
+  - pentesting
   - reverse engineering
     
 - languages:
