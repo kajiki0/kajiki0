@@ -1,6 +1,6 @@
 **about me:**
 
-  - pentesting
+  - software development
   - reverse engineering
     
 - languages:
@@ -10,7 +10,7 @@
 
 - tools/techs:
   
-  - C / Rust / JavaScript / Python
+  - C / Rust / JavaScript / Assembly
   - Linux(debian-based) / Windows / Powershell
   - Micro editor / VScode / Visual Studio
   - human brain / internet access 
