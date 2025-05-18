@@ -2,7 +2,7 @@
 
   - infosec student
   - reverse engineering
-  - web pentest
+  - binary exploitation
     
 - languages:
   
@@ -11,7 +11,7 @@
 
 - tools/techs:
   
-  - C++ / Assembly / Python / C / JavaScript
+  - C++ / Assembly / Python / C /
   - Linux(debian-based) / Windows / Powershell
   - Micro editor / VScode / Visual Studio
   - human brain / internet access 
