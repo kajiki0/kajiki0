@@ -11,7 +11,7 @@
 
 - tools/techs:
   
-  - C++ / C / Python / JavaScript 
+  - C / Python / JavaScript / Assembly(learning)
   - Linux(debian-based) / Windows / Powershell
   - Micro editor / VScode / Visual Studio
   - human brain / internet access 
