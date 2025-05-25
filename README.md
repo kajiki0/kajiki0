@@ -1,7 +1,7 @@
 **about me:**
 
   - infosec student
-  - reverse engineering
+  - low level enjoyer
   - pentest
     
 - languages:
