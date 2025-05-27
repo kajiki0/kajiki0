@@ -2,7 +2,7 @@
 
   - infosec student
   - low level enjoyer
-  - reverse engineering
+  - web pentest
     
 - languages:
   
