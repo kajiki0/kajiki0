@@ -2,7 +2,7 @@
 
   - infosec student
   - low level enjoyer
-  - reverse engineering
+  - pentest
     
 - languages:
   
@@ -11,7 +11,7 @@
 
 - tools/techs:
   
-  - C++ / Python / C / Assembly(learning)
+  - C++ / Python / Assembly(learning) / JavaScript
   - Linux(debian-based) / Windows / Powershell
   - Micro editor / VScode / Visual Studio
   - human brain / internet access 
