@@ -2,7 +2,8 @@
 
   - infosec student
   - low level enjoyer
-  - pentest
+  - threat intel
+  - reverse engineering
     
 - languages:
   
