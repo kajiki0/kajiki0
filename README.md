@@ -1,22 +1,9 @@
 **about me:**
+- cybersecurity student focusing on penetration test
+- i like game reversing/modding
+- 21yo
+- pt_br(native)/en_us(intermediate/learning)
 
-  - infosec student
-  - low level enjoyer
-  - reverse engineering
-    
-- languages:
-  
-    - pt-br(native)
-    - en-us(intermediate / still learning)
-
-- tools/techs:
-  
-  - C / Python / Assembly(learning) / C#(learning)
-  - Linux(debian-based) / Windows / Powershell
-  - Micro editor / VScode / Visual Studio
-  - human brain / internet access 
-
-#
 ![sf3-yang-stage](sf3-3rd-strike-yang-stage-hongkong.gif)
 #
 
