@@ -1,5 +1,5 @@
 **about me:**
-- penetration test / game modding
+- penetration test / game modding / CTI
 - 21yo
 - pt_br(native)/en_us(intermediate/learning)
 - programming languages: JavaScript / Python / C++ / ASM
