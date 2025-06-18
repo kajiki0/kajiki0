@@ -2,7 +2,7 @@
 - penetration test / game modding / CTI
 - 21yo
 - pt_br(native)/en_us(intermediate/learning)
-- programming languages: JavaScript / Python / C++ / ASM
+- programming languages: JavaScript / Python / C++ / ASM / C
 
 ![sf3-yang-stage](sf3-3rd-strike-yang-stage-hongkong.gif)
 #
