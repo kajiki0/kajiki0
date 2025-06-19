@@ -1,5 +1,5 @@
 **about me:**
-- penetration test / binary exploitation
+- reverse engineering / binary exploitation
 - 21yo
 - pt_br(native)/en_us(intermediate/learning)
 - programming languages: JavaScript / Python / Assembly(learning the basics) / C / C++
