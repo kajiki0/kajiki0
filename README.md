@@ -1,5 +1,5 @@
 **about me:**
-- game reversing / web dev 
+- web security / game reversing / web dev 
 - 21yo
 - pt_br(native)/en_us(intermediate/learning)
 - programming languages: JavaScript / Python / Assembly(learning the basics) / C#(learning) / C++
