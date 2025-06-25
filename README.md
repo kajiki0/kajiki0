@@ -1,8 +1,8 @@
 **about me:**
-- reverse engineering / CTI
+- game reversing / web dev 
 - 21yo
 - pt_br(native)/en_us(intermediate/learning)
-- programming languages: JavaScript / Python / Assembly(learning the basics) / C / C++
+- programming languages: JavaScript / Python / Assembly(learning the basics) / C#(learning) / C++
 
 ![sf3-yang-stage](sf3-3rd-strike-yang-stage-hongkong.gif)
 #
