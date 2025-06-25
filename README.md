@@ -1,5 +1,5 @@
 **about me:**
-- reverse engineering / binary exploitation / security analysis
+- reverse engineering / incident response / threat intel
 - 21yo
 - pt_br(native)/en_us(intermediate/learning)
 - programming languages: Python / Assembly(learning the basics) / C#(learning) / C++
