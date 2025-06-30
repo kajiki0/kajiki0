@@ -1,5 +1,5 @@
 **about me:**
-- reversing / web development / web security
+- reversing / web security / pentesting
 - 21yo
 - pt_br(native)/en_us(intermediate/learning)
 - programming languages: JavaScript / Python / Assembly(learning the basics) / C++ / C
