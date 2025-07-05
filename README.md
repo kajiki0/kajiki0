@@ -1,5 +1,5 @@
 **about me:**
-- web app pentest
+- binary exploitation / web dev
 - 21yo
 - pt_br(native)/en_us(intermediate/learning)
 - programming languages: JavaScript / Python / C++ / C
