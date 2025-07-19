@@ -1,5 +1,5 @@
 **about me:**
-- binary exploitation / web app pentest
+- reverse engineering / web app pentest
 - 21yo
 - pt_br(native)/en_us(intermediate/learning)
 - programming languages: JavaScript / Python / C++ / C / Assembly x86-64(learning)
