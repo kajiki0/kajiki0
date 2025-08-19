@@ -1,8 +1,8 @@
 **about me:**
-- reverse engineering / red team
+- reverse engineering / red team / pentest
 - 21yo
 - pt_br(native)/en_us(intermediate/learning)
-- programming languages: Python / C++ / C / Assembly(learning) / Java(learning)
+- programming languages: Python / C++ / C / Assembly(learning) / JavaScript
 
 ![sf3-yang-stage](sf3-3rd-strike-yang-stage-hongkong.gif)
 #
