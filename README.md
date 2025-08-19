@@ -1,5 +1,5 @@
 **about me:**
-- reverse engineering / web app pentest
+- reverse engineering / red team
 - 21yo
 - pt_br(native)/en_us(intermediate/learning)
 - programming languages: JavaScript / Python / C++ / C /
