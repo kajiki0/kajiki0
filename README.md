@@ -1,5 +1,5 @@
 **about me:**
-- web dev / pentest / win internals
+- pentest / win internals
 - 21yo
 - pt_br(native)/en_us(intermediate/learning)
 - programming languages: Python / C++ / C / Assembly(learning) / JavaScript
