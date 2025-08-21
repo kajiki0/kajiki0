@@ -1,5 +1,5 @@
 **about me:**
-- reverse engineering / red team / pentest
+- web dev / pentest / win internals
 - 21yo
 - pt_br(native)/en_us(intermediate/learning)
 - programming languages: Python / C++ / C / Assembly(learning) / JavaScript
