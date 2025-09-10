@@ -1,5 +1,5 @@
 **about me:**
-- pentest / reversing
+- pentest / game reversing
 - 21yo
 - pt_br(native)/en_us(intermediate/learning)
 - programming languages: Python / C++ / C / Assembly(learning) / JavaScript
