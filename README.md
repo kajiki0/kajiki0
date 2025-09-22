@@ -2,10 +2,10 @@
 
 #
 
-* langs: C++ / Python / Assembly(learning) / JavaScript
+* langs: C++ / Python / JavaScript
 
 * pt-br(native)/en-us(intermediate - B1)
 
-* interest in: windows internals / penetration test
+* interest in: network infrastructure / penetration test
 
 #
