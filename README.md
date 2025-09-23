@@ -2,7 +2,7 @@
 
 #
 
-* langs: C / Python / JavaScript
+* langs: C++ / Python / JavaScript
 
 * pt-br(native)/en-us(intermediate - B1)
 
