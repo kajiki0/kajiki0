@@ -2,10 +2,10 @@
 
 #
 
-* langs: C++ / Python / JavaScript
+* langs: C++ / Python / JavaScript / Assembly(learning)
 
 * pt-br(native)/en-us(intermediate - B1)
 
-* interest in: network infrastructure / penetration test
+* interest in: reverse engineering / penetration test
 
 #
