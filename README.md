@@ -6,6 +6,6 @@
 
 * pt-br(native)/en-us(intermediate - B1)
 
-* interest in: game hacking / pentest
+* interest in: game hacking / reverse engineering
 
 #
