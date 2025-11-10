@@ -2,10 +2,10 @@
 
 #
 
-* langs: C++ / Python / JavaScript / Assembly(learning)
+* langs: C/C++ | Python | JavaScript
 
 * pt-br(native)/en-us(intermediate - B1)
 
-* interest in: game hacking / reverse engineering
+* interest in: offensive web security | game reversing/modding | data analysis
 
 #
