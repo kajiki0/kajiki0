@@ -6,6 +6,6 @@
 
 * pt-br(native)/en-us(intermediate - B1)
 
-* interest in: offensive web security | game reversing/modding | data analysis
+* interest in: reverse engineering | binary exploitation | data analysis
 
 #
