@@ -6,6 +6,6 @@
 
 * pt-br(native)/en-us(intermediate - B1)
 
-* interest in: reverse engineering | penetration testing
+* interest in: reverse engineering | binary exploitation | data analysis
 
 #
