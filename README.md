@@ -1,4 +1,4 @@
-![akuma-ryu](akuma-vs-ryu-streetfighter-alpha-anime.gif)
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;![akuma-ryu](akuma-vs-ryu-streetfighter-alpha-anime.gif)
 
 #
 
