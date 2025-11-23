@@ -6,6 +6,6 @@
 
 * pt-br(native)/en-us(intermediate - B1)
 
-* interest in: reverse engineering | windows internals | web penetration test
+* interest in: reverse engineering | windows internals | webapp pentest
 
 #
