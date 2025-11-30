@@ -2,10 +2,10 @@
 
 #
 
-* langs: C++ | Python | Assembly(learning) | JavaScript
+* langs: C++ | Python | JavaScript
 
 * pt-br(native)/en-us(intermediate - B1)
 
-* interest in: reverse engineering | windows internals | webapp pentest
+* interest in: windows internals | webapp pentest
 
 #
