@@ -6,6 +6,6 @@
 
 * pt-br(native)/en-us(intermediate - B1)
 
-* interest in: windows internals | webapp pentest
+* interest in: Windows Internals | WebApp Pentest
 
 #
