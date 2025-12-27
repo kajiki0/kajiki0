@@ -6,6 +6,6 @@
 
 * pt-br(native)/en-us(intermediate - B1)
 
-* interest in: Reverse Engineering | WebApp Pentest
+* interest in: Reverse Engineering | Web App Pentest
 
 #
