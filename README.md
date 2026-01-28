@@ -1,4 +1,4 @@
-![akuma-ryu](akuma-vs-ryu-streetfighter-alpha-anime.gif)
+![yang-stage](sf3-3rd-strike-yang-stage-hongkong.gif)
 
 #
 
