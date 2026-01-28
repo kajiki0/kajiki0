@@ -2,10 +2,10 @@
 
 #
 
-* langs: C++ | Python | JavaScript
+* langs: C++ | Python | C | ASM
 
 * pt-br(native)/en-us(intermediate - B1)
 
-* interest in: Reverse Engineering | Web App Pentest
+* interest in: Reverse Engineering | Binary Exploitation | Vulnerability Research
 
 #
