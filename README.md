@@ -2,7 +2,7 @@
 
 #
 
-* langs: C++ | Python | C | ASM
+* langs: C#(leaning) | Python | C | ASM(learning)
 
 * pt-br(native)/en-us(intermediate - B1)
 
