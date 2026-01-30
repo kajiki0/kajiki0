@@ -2,7 +2,7 @@
 
 #
 
-* langs: C++ | Python | C | ASM(learning)
+* langs: C++ | Python | C | ASM(learning) | Javascript
 
 * pt-br(native)/en-us(intermediate - B1)
 
