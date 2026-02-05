@@ -6,4 +6,4 @@
 
 * pt-br(native)/en-us(intermediate - B1)
 
-* interest in: Reverse Engineering | Penetration Test |
+* interest in: Reverse Engineering | Penetration Test
