@@ -4,4 +4,4 @@
 
 * langs: C++ | Python | C | ASM(learning) | Javascript
 
-* interest in: Game Reverse Engineering | Penetration Test
+* interest in: Game Reverse Engineering | Network Infrastructure | Pentest
