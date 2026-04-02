@@ -2,6 +2,6 @@
 
 #
 
-* langs: C++ | Python | C | ASM(learning) | Javascript
+* langs: C++ | Python | C | ASM(learning) 
 
-* interest in: Game Reverse Engineering | Network Infrastructure | Pentest
+* interest in: Reverse Engineering | Network Infrastructure
