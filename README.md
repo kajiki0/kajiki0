@@ -2,6 +2,6 @@
 
 #
 
-* langs: C++ | Python | C | ASM(learning) 
+* langs: C++ | Python | C | ASM(learning) | Bash
 
 * interest in: Reverse Engineering | Network Infrastructure | Pentest
