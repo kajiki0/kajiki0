@@ -4,4 +4,4 @@
 
 * langs: C++ | Python | C | ASM(learning) 
 
-* interest in: Reverse Engineering | Network Infrastructure
+* interest in: Reverse Engineering | Network Infrastructure | Pentest
