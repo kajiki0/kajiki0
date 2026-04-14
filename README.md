@@ -1,4 +1,4 @@
-![yang-stage](sf3-3rd-strike-yang-stage-hongkong.gif)
+![sif](sif_great_wolf.gif)
 
 #
 
