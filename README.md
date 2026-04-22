@@ -2,4 +2,4 @@
 
 #
 
-* interest in: Cybersecurity | Pentest | Reverse Engineering
+* interest in: cybersecurity | pentest | low level programming
