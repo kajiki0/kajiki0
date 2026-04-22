@@ -1,4 +1,4 @@
-![sif](sif_great_wolf.gif)
+![akuma](akuma-sfa2-intro.gif)
 
 #
 
