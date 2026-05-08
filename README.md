@@ -1,4 +1,4 @@
-![akuma](akuma-sfa2-intro.gif)
+![omega-rugal-stage](kof2002-omega-rugal-stage-black-noah.gif)
 
 #
 
