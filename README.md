@@ -2,4 +2,4 @@
 
 #
 
-* interest in: cybersecurity | pentest | low level programming
+* interest in: cybersecurity | pentest | low level programming | network administration
