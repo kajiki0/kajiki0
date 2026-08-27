@@ -2,4 +2,4 @@
 
 #
 
-* interest in: cybersecurity | pentest | low level programming | linux | web applications
+* interest in: cybersecurity | pentest | low level programming | linux | web applications | game hacking
